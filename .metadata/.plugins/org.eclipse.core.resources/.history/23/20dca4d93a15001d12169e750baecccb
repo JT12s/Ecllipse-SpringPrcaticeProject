@@ -1,0 +1,25 @@
+package test;
+
+import java.util.*;
+
+public class Main {
+
+	public static void main(String[] args){
+	    Scanner scan = new Scanner(System.in);
+	    int n = scan.nextInt();
+	    int m = scan.nextInt();
+	    boolean minus = true;
+	    int res = 0;
+	    int count = m;
+	    for(int i = 1; i <= n; i++) {
+	    	if(minus) {
+	    		res -= i;
+	    	}
+	    	else {
+	    		res += i;
+	    	}
+	    	count--;
+	    }
+	    System.out.println(res);
+	}
+}

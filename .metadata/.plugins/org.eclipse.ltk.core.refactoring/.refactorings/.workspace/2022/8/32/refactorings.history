@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;app&apos; to &apos;mycoolapp&apos;" description="Rename resource &apos;app&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/app" name="mycoolapp" stamp="1659738588189" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;spring-security-demo&apos; to &apos;spring-security-demo-01-base-app&apos;" description="Rename resource &apos;spring-security-demo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-security-demo" name="spring-security-demo-01-base-app" stamp="1659816086744" updateReferences="true"/>
+</session>

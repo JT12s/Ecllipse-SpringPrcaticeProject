@@ -1,0 +1,16 @@
+package com.luv2code.aopdemo;
+
+public class MainDemoApp {
+
+	public static void main(String[] args) {
+			
+		// read spring config Java class
+		
+		// get bean from spring container
+		
+		// call the business method 
+		
+		// close the context
+	}
+
+}
